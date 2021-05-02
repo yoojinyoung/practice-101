@@ -10,6 +10,10 @@
 - Storybook
 - Tailwind.CSS
 - 쉘 스크립트
+- Docker
+- Express
+- Koa
+- Python
 ...
 
 단순히 프론트엔드 개발자, 백엔드 개발자로 살아남는 것을 넘어서
