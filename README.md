@@ -14,6 +14,10 @@
 - Express
 - Koa
 - Python
+- CodePush
+- Jenkins
+- Docker
+- K8s
 ...
 
 단순히 프론트엔드 개발자, 백엔드 개발자로 살아남는 것을 넘어서
